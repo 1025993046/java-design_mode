@@ -1,4 +1,4 @@
-package com.patterns.structuralPattern.adapter;
+package 实验2.适配器模式;
 
 public class AdapterTest {
     public static void main(String[] args) {
